@@ -1,0 +1,6 @@
+// dod.h
+// заголовковий файл – оголошення функції
+#pragma once
+namespace nsDod {
+    void dod();
+}
